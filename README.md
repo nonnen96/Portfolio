@@ -6,7 +6,7 @@ and, if applicable, code or demo.
 
 ## Categories
 
-- **Quantitative** – Multi greeks hedging, actuarial pricing, fed market signals, time series modeling.
+- **Quantitative** – FED market signals, actuarial pricing, time series modeling.
 - **Data Science / ML** – Perfume recommender, sea level rise forecasting
 - **Other / Applied Experiences** – Humanitarian work, assistive technology
 
